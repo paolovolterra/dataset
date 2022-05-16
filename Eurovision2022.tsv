@@ -1,0 +1,801 @@
+index	tipo	votato	TOT	votante	voti
+1	Jury	United Kingdom	283	Albania	10
+1	Jury	United Kingdom	283	Austria	12
+1	Jury	United Kingdom	283	Azerbaijan	12
+1	Jury	United Kingdom	283	Belgium	12
+1	Jury	United Kingdom	283	Bulgaria	10
+1	Jury	United Kingdom	283	Cyprus	3
+1	Jury	United Kingdom	283	Czech Republic	12
+1	Jury	United Kingdom	283	denmark	6
+1	Jury	United Kingdom	283	Estonia	4
+1	Jury	United Kingdom	283	Finland	10
+1	Jury	United Kingdom	283	France	12
+1	Jury	United Kingdom	283	Georgia	12
+1	Jury	United Kingdom	283	Germany	12
+1	Jury	United Kingdom	283	Iceland	7
+1	Jury	United Kingdom	283	Ireland	8
+1	Jury	United Kingdom	283	Israel	10
+1	Jury	United Kingdom	283	Italy	6
+1	Jury	United Kingdom	283	Llatvia	8
+1	Jury	United Kingdom	283	Lithuania	10
+1	Jury	United Kingdom	283	Malta	8
+1	Jury	United Kingdom	283	Moldova	10
+1	Jury	United Kingdom	283	Montenegro	5
+1	Jury	United Kingdom	283	Netherlands	4
+1	Jury	United Kingdom	283	North Macedonia	8
+1	Jury	United Kingdom	283	Norway	6
+1	Jury	United Kingdom	283	Poland	8
+1	Jury	United Kingdom	283	Portugal	10
+1	Jury	United Kingdom	283	Romania	8
+1	Jury	United Kingdom	283	San Marino	8
+1	Jury	United Kingdom	283	Serbia	1
+1	Jury	United Kingdom	283	Slovenia	2
+1	Jury	United Kingdom	283	Spain	3
+1	Jury	United Kingdom	283	Sweden	8
+1	Jury	United Kingdom	283	Switzerland	6
+1	Jury	United Kingdom	283	Ukraine	12
+2	Jury	Sweden	258	Albania	8
+2	Jury	Sweden	258	Armenia	5
+2	Jury	Sweden	258	Australia	10
+2	Jury	Sweden	258	Austria	7
+2	Jury	Sweden	258	Azerbaijan	8
+2	Jury	Sweden	258	Belgium	7
+2	Jury	Sweden	258	Croatia	5
+2	Jury	Sweden	258	Cyprus	5
+2	Jury	Sweden	258	Czech Republic	10
+2	Jury	Sweden	258	denmark	7
+2	Jury	Sweden	258	Estonia	12
+2	Jury	Sweden	258	Finland	12
+2	Jury	Sweden	258	Georgia	8
+2	Jury	Sweden	258	Germany	7
+2	Jury	Sweden	258	Iceland	12
+2	Jury	Sweden	258	Ireland	10
+2	Jury	Sweden	258	Israel	12
+2	Jury	Sweden	258	Llatvia	10
+2	Jury	Sweden	258	Lithuania	3
+2	Jury	Sweden	258	Malta	10
+2	Jury	Sweden	258	Moldova	8
+2	Jury	Sweden	258	Montenegro	7
+2	Jury	Sweden	258	Netherlands	1
+2	Jury	Sweden	258	North Macedonia	6
+2	Jury	Sweden	258	Norway	8
+2	Jury	Sweden	258	Poland	10
+2	Jury	Sweden	258	Romania	10
+2	Jury	Sweden	258	San Marino	5
+2	Jury	Sweden	258	Serbia	5
+2	Jury	Sweden	258	Spain	7
+2	Jury	Sweden	258	Switzerland	7
+2	Jury	Sweden	258	Ukraine	4
+2	Jury	Sweden	258	United Kingdom	12
+3	Jury	Spain	231	Albania	5
+3	Jury	Spain	231	Armenia	12
+3	Jury	Spain	231	Australia	12
+3	Jury	Spain	231	Austria	2
+3	Jury	Spain	231	Azerbaijan	5
+3	Jury	Spain	231	Belgium	10
+3	Jury	Spain	231	Bulgaria	8
+3	Jury	Spain	231	Croatia	6
+3	Jury	Spain	231	Cyprus	6
+3	Jury	Spain	231	Czech Republic	7
+3	Jury	Spain	231	denmark	4
+3	Jury	Spain	231	France	5
+3	Jury	Spain	231	Georgia	5
+3	Jury	Spain	231	Germany	8
+3	Jury	Spain	231	Greece	5
+3	Jury	Spain	231	Iceland	3
+3	Jury	Spain	231	Ireland	12
+3	Jury	Spain	231	Israel	3
+3	Jury	Spain	231	Lithuania	5
+3	Jury	Spain	231	Malta	12
+3	Jury	Spain	231	Moldova	3
+3	Jury	Spain	231	Montenegro	8
+3	Jury	Spain	231	Netherlands	5
+3	Jury	Spain	231	North Macedonia	12
+3	Jury	Spain	231	Norway	7
+3	Jury	Spain	231	Poland	1
+3	Jury	Spain	231	Portugal	12
+3	Jury	Spain	231	Romania	1
+3	Jury	Spain	231	San Marino	12
+3	Jury	Spain	231	Serbia	4
+3	Jury	Spain	231	Slovenia	1
+3	Jury	Spain	231	Sweden	12
+3	Jury	Spain	231	Switzerland	8
+3	Jury	Spain	231	United Kingdom	10
+4	Jury	Ukraine	192	Albania	7
+4	Jury	Ukraine	192	Armenia	6
+4	Jury	Ukraine	192	Australia	7
+4	Jury	Ukraine	192	Azerbaijan	6
+4	Jury	Ukraine	192	Belgium	6
+4	Jury	Ukraine	192	Croatia	8
+4	Jury	Ukraine	192	Cyprus	7
+4	Jury	Ukraine	192	Czech Republic	4
+4	Jury	Ukraine	192	denmark	5
+4	Jury	Ukraine	192	France	10
+4	Jury	Ukraine	192	Georgia	6
+4	Jury	Ukraine	192	Germany	10
+4	Jury	Ukraine	192	Iceland	10
+4	Jury	Ukraine	192	Ireland	3
+4	Jury	Ukraine	192	Israel	7
+4	Jury	Ukraine	192	Llatvia	12
+4	Jury	Ukraine	192	Lithuania	12
+4	Jury	Ukraine	192	Moldova	12
+4	Jury	Ukraine	192	Montenegro	6
+4	Jury	Ukraine	192	Norway	3
+4	Jury	Ukraine	192	Poland	12
+4	Jury	Ukraine	192	Portugal	8
+4	Jury	Ukraine	192	Romania	12
+4	Jury	Ukraine	192	San Marino	2
+4	Jury	Ukraine	192	Slovenia	8
+4	Jury	Ukraine	192	Switzerland	3
+5	Jury	Portugal	171	Albania	1
+5	Jury	Portugal	171	Armenia	8
+5	Jury	Portugal	171	Australia	6
+5	Jury	Portugal	171	Austria	10
+5	Jury	Portugal	171	Azerbaijan	7
+5	Jury	Portugal	171	Belgium	5
+5	Jury	Portugal	171	Bulgaria	4
+5	Jury	Portugal	171	Croatia	10
+5	Jury	Portugal	171	Czech Republic	5
+5	Jury	Portugal	171	denmark	8
+5	Jury	Portugal	171	Estonia	7
+5	Jury	Portugal	171	France	1
+5	Jury	Portugal	171	Georgia	7
+5	Jury	Portugal	171	Greece	3
+5	Jury	Portugal	171	Iceland	5
+5	Jury	Portugal	171	Ireland	4
+5	Jury	Portugal	171	Llatvia	6
+5	Jury	Portugal	171	Lithuania	8
+5	Jury	Portugal	171	Moldova	2
+5	Jury	Portugal	171	Montenegro	4
+5	Jury	Portugal	171	Netherlands	8
+5	Jury	Portugal	171	Norway	10
+5	Jury	Portugal	171	Poland	7
+5	Jury	Portugal	171	Romania	7
+5	Jury	Portugal	171	Serbia	7
+5	Jury	Portugal	171	Slovenia	3
+5	Jury	Portugal	171	Switzerland	5
+5	Jury	Portugal	171	Ukraine	10
+5	Jury	Portugal	171	United Kingdom	3
+6	Jury	Italy	158	Albania	12
+6	Jury	Italy	158	Armenia	10
+6	Jury	Italy	158	Australia	3
+6	Jury	Italy	158	Austria	3
+6	Jury	Italy	158	Azerbaijan	10
+6	Jury	Italy	158	Belgium	8
+6	Jury	Italy	158	Bulgaria	1
+6	Jury	Italy	158	Croatia	4
+6	Jury	Italy	158	Cyprus	1
+6	Jury	Italy	158	Estonia	10
+6	Jury	Italy	158	Finland	2
+6	Jury	Italy	158	Georgia	10
+6	Jury	Italy	158	Greece	1
+6	Jury	Italy	158	Iceland	6
+6	Jury	Italy	158	Ireland	6
+6	Jury	Italy	158	Israel	8
+6	Jury	Italy	158	Lithuania	4
+6	Jury	Italy	158	Malta	7
+6	Jury	Italy	158	Montenegro	10
+6	Jury	Italy	158	North Macedonia	7
+6	Jury	Italy	158	Poland	4
+6	Jury	Italy	158	Romania	4
+6	Jury	Italy	158	San Marino	3
+6	Jury	Italy	158	Slovenia	12
+6	Jury	Italy	158	Spain	10
+6	Jury	Italy	158	Switzerland	2
+6	Jury	Greece	158	Armenia	2
+6	Jury	Greece	158	Austria	4
+6	Jury	Greece	158	Azerbaijan	3
+6	Jury	Greece	158	Bulgaria	12
+6	Jury	Greece	158	Croatia	3
+6	Jury	Greece	158	Cyprus	12
+6	Jury	Greece	158	Czech Republic	3
+6	Jury	Greece	158	denmark	12
+6	Jury	Greece	158	Estonia	6
+6	Jury	Greece	158	Finland	6
+6	Jury	Greece	158	France	3
+6	Jury	Greece	158	Georgia	3
+6	Jury	Greece	158	Italy	10
+6	Jury	Greece	158	Llatvia	7
+6	Jury	Greece	158	Malta	1
+6	Jury	Greece	158	Netherlands	12
+6	Jury	Greece	158	Norway	12
+6	Jury	Greece	158	Poland	2
+6	Jury	Greece	158	Portugal	4
+6	Jury	Greece	158	Romania	2
+6	Jury	Greece	158	San Marino	10
+6	Jury	Greece	158	Slovenia	4
+6	Jury	Greece	158	Spain	2
+6	Jury	Greece	158	Switzerland	12
+6	Jury	Greece	158	Ukraine	7
+6	Jury	Greece	158	United Kingdom	4
+8	Jury	Netherlands	129	Albania	6
+8	Jury	Netherlands	129	Armenia	4
+8	Jury	Netherlands	129	Austria	8
+8	Jury	Netherlands	129	Azerbaijan	4
+8	Jury	Netherlands	129	Croatia	2
+8	Jury	Netherlands	129	denmark	10
+8	Jury	Netherlands	129	Estonia	1
+8	Jury	Netherlands	129	Finland	5
+8	Jury	Netherlands	129	France	4
+8	Jury	Netherlands	129	Georgia	4
+8	Jury	Netherlands	129	Germany	4
+8	Jury	Netherlands	129	Greece	4
+8	Jury	Netherlands	129	Iceland	4
+8	Jury	Netherlands	129	Israel	1
+8	Jury	Netherlands	129	Italy	12
+8	Jury	Netherlands	129	Llatvia	4
+8	Jury	Netherlands	129	Lithuania	6
+8	Jury	Netherlands	129	Montenegro	3
+8	Jury	Netherlands	129	Norway	5
+8	Jury	Netherlands	129	Poland	3
+8	Jury	Netherlands	129	Portugal	7
+8	Jury	Netherlands	129	Romania	3
+8	Jury	Netherlands	129	Slovenia	7
+8	Jury	Netherlands	129	Switzerland	10
+8	Jury	Netherlands	129	Ukraine	8
+9	Jury	Australia	123	Belgium	1
+9	Jury	Australia	123	Cyprus	8
+9	Jury	Australia	123	Czech Republic	1
+9	Jury	Australia	123	Estonia	8
+9	Jury	Australia	123	Finland	8
+9	Jury	Australia	123	Germany	5
+9	Jury	Australia	123	Greece	8
+9	Jury	Australia	123	Ireland	2
+9	Jury	Australia	123	Israel	5
+9	Jury	Australia	123	Italy	2
+9	Jury	Australia	123	Llatvia	2
+9	Jury	Australia	123	Malta	6
+9	Jury	Australia	123	Moldova	6
+9	Jury	Australia	123	Netherlands	7
+9	Jury	Australia	123	North Macedonia	5
+9	Jury	Australia	123	Poland	6
+9	Jury	Australia	123	Romania	6
+9	Jury	Australia	123	San Marino	6
+9	Jury	Australia	123	Spain	8
+9	Jury	Australia	123	Sweden	10
+9	Jury	Australia	123	Switzerland	4
+9	Jury	Australia	123	Ukraine	3
+9	Jury	Australia	123	United Kingdom	6
+10	Jury	Azerbaijan	103	Albania	3
+10	Jury	Azerbaijan	103	Australia	2
+10	Jury	Azerbaijan	103	Belgium	3
+10	Jury	Azerbaijan	103	Bulgaria	3
+10	Jury	Azerbaijan	103	Cyprus	10
+10	Jury	Azerbaijan	103	Estonia	3
+10	Jury	Azerbaijan	103	Finland	3
+10	Jury	Azerbaijan	103	Germany	6
+10	Jury	Azerbaijan	103	Greece	12
+10	Jury	Azerbaijan	103	Malta	2
+10	Jury	Azerbaijan	103	Moldova	1
+10	Jury	Azerbaijan	103	Montenegro	1
+10	Jury	Azerbaijan	103	North Macedonia	4
+10	Jury	Azerbaijan	103	San Marino	7
+10	Jury	Azerbaijan	103	Serbia	12
+10	Jury	Azerbaijan	103	Spain	12
+10	Jury	Azerbaijan	103	Sweden	7
+10	Jury	Azerbaijan	103	Ukraine	5
+10	Jury	Azerbaijan	103	United Kingdom	7
+11	Jury	Serbia	87	Australia	8
+11	Jury	Serbia	87	Belgium	4
+11	Jury	Serbia	87	Croatia	12
+11	Jury	Serbia	87	Cyprus	4
+11	Jury	Serbia	87	Finland	7
+11	Jury	Serbia	87	Ireland	5
+11	Jury	Serbia	87	Italy	4
+11	Jury	Serbia	87	Lithuania	1
+11	Jury	Serbia	87	Montenegro	12
+11	Jury	Serbia	87	North Macedonia	10
+11	Jury	Serbia	87	Portugal	3
+11	Jury	Serbia	87	Slovenia	6
+11	Jury	Serbia	87	Spain	6
+11	Jury	Serbia	87	Sweden	4
+11	Jury	Serbia	87	United Kingdom	1
+12	Jury	Switzerland	78	Austria	1
+12	Jury	Switzerland	78	Bulgaria	7
+12	Jury	Switzerland	78	Croatia	1
+12	Jury	Switzerland	78	Czech Republic	6
+12	Jury	Switzerland	78	denmark	2
+12	Jury	Switzerland	78	Germany	2
+12	Jury	Switzerland	78	Italy	3
+12	Jury	Switzerland	78	Llatvia	3
+12	Jury	Switzerland	78	Lithuania	7
+12	Jury	Switzerland	78	Moldova	7
+12	Jury	Switzerland	78	Netherlands	10
+12	Jury	Switzerland	78	North Macedonia	1
+12	Jury	Switzerland	78	Norway	1
+12	Jury	Switzerland	78	Poland	5
+12	Jury	Switzerland	78	Portugal	2
+12	Jury	Switzerland	78	Romania	5
+12	Jury	Switzerland	78	San Marino	1
+12	Jury	Switzerland	78	Slovenia	5
+12	Jury	Switzerland	78	Spain	1
+12	Jury	Switzerland	78	Ukraine	6
+12	Jury	Switzerland	78	United Kingdom	2
+13	Jury	Belgium	59	Albania	2
+13	Jury	Belgium	59	Australia	5
+13	Jury	Belgium	59	Bulgaria	6
+13	Jury	Belgium	59	Cyprus	2
+13	Jury	Belgium	59	France	6
+13	Jury	Belgium	59	Israel	4
+13	Jury	Belgium	59	Italy	7
+13	Jury	Belgium	59	Moldova	4
+13	Jury	Belgium	59	Netherlands	6
+13	Jury	Belgium	59	North Macedonia	3
+13	Jury	Belgium	59	Serbia	8
+13	Jury	Belgium	59	Spain	5
+13	Jury	Belgium	59	Sweden	1
+14	Jury	Poland	46	Azerbaijan	2
+14	Jury	Poland	46	France	8
+14	Jury	Poland	46	Georgia	2
+14	Jury	Poland	46	Greece	10
+14	Jury	Poland	46	Israel	6
+14	Jury	Poland	46	Malta	4
+14	Jury	Poland	46	North Macedonia	2
+14	Jury	Poland	46	San Marino	4
+14	Jury	Poland	46	United Kingdom	8
+15	Jury	Estonia	43	Armenia	3
+15	Jury	Estonia	43	Australia	1
+15	Jury	Estonia	43	Czech Republic	8
+15	Jury	Estonia	43	Malta	5
+15	Jury	Estonia	43	Moldova	5
+15	Jury	Estonia	43	Serbia	10
+15	Jury	Estonia	43	Sweden	6
+15	Jury	Estonia	43	United Kingdom	5
+16	Jury	Armenia	40	Albania	4
+16	Jury	Armenia	40	Austria	6
+16	Jury	Armenia	40	Bulgaria	5
+16	Jury	Armenia	40	Finland	1
+16	Jury	Armenia	40	France	7
+16	Jury	Armenia	40	Italy	8
+16	Jury	Armenia	40	Norway	4
+16	Jury	Armenia	40	Portugal	1
+16	Jury	Armenia	40	Sweden	2
+16	Jury	Armenia	40	Ukraine	2
+17	Jury	Norway	36	Austria	5
+17	Jury	Norway	36	Bulgaria	2
+17	Jury	Norway	36	Czech Republic	2
+17	Jury	Norway	36	Finland	4
+17	Jury	Norway	36	Germany	3
+17	Jury	Norway	36	Iceland	8
+17	Jury	Norway	36	Llatvia	5
+17	Jury	Norway	36	Netherlands	3
+17	Jury	Norway	36	Sweden	3
+17	Jury	Norway	36	Switzerland	1
+18	Jury	Lithuania	35	Croatia	7
+18	Jury	Lithuania	35	denmark	3
+18	Jury	Lithuania	35	Estonia	2
+18	Jury	Lithuania	35	Iceland	1
+18	Jury	Lithuania	35	Llatvia	1
+18	Jury	Lithuania	35	Montenegro	2
+18	Jury	Lithuania	35	Norway	2
+18	Jury	Lithuania	35	Portugal	5
+18	Jury	Lithuania	35	Serbia	2
+18	Jury	Lithuania	35	Slovenia	10
+19	Jury	Czech Republic	33	Australia	4
+19	Jury	Czech Republic	33	Belgium	2
+19	Jury	Czech Republic	33	France	2
+19	Jury	Czech Republic	33	Greece	2
+19	Jury	Czech Republic	33	Iceland	2
+19	Jury	Czech Republic	33	Ireland	7
+19	Jury	Czech Republic	33	Israel	2
+19	Jury	Czech Republic	33	Malta	3
+19	Jury	Czech Republic	33	Serbia	3
+19	Jury	Czech Republic	33	Sweden	5
+19	Jury	Czech Republic	33	Ukraine	1
+20	Jury	Moldova	14	Armenia	1
+20	Jury	Moldova	14	Greece	6
+20	Jury	Moldova	14	Italy	5
+20	Jury	Moldova	14	Netherlands	2
+21	Jury	Romania	12	Germany	1
+21	Jury	Romania	12	Greece	7
+21	Jury	Romania	12	Spain	4
+21	Jury	Finland	12	Estonia	5
+21	Jury	Finland	12	Italy	1
+21	Jury	Finland	12	Serbia	6
+23	Jury	Iceland	10	denmark	1
+23	Jury	Iceland	10	Ireland	1
+23	Jury	Iceland	10	Lithuania	2
+23	Jury	Iceland	10	Portugal	6
+24	Jury	France	9	Armenia	7
+24	Jury	France	9	Azerbaijan	1
+24	Jury	France	9	Georgia	1
+1	Tele	Ukraine	439	Albania	10
+1	Tele	Ukraine	439	Armenia	10
+1	Tele	Ukraine	439	Australia	12
+1	Tele	Ukraine	439	Austria	12
+1	Tele	Ukraine	439	Azerbaijan	12
+1	Tele	Ukraine	439	Belgium	12
+1	Tele	Ukraine	439	Bulgaria	12
+1	Tele	Ukraine	439	Croatia	10
+1	Tele	Ukraine	439	Cyprus	12
+1	Tele	Ukraine	439	Czech Republic	12
+1	Tele	Ukraine	439	denmark	12
+1	Tele	Ukraine	439	Estonia	12
+1	Tele	Ukraine	439	Finland	12
+1	Tele	Ukraine	439	France	12
+1	Tele	Ukraine	439	Georgia	12
+1	Tele	Ukraine	439	Germany	12
+1	Tele	Ukraine	439	Greece	10
+1	Tele	Ukraine	439	Iceland	12
+1	Tele	Ukraine	439	Ireland	12
+1	Tele	Ukraine	439	Israel	12
+1	Tele	Ukraine	439	Italy	12
+1	Tele	Ukraine	439	Llatvia	12
+1	Tele	Ukraine	439	Lithuania	12
+1	Tele	Ukraine	439	Malta	8
+1	Tele	Ukraine	439	Moldova	12
+1	Tele	Ukraine	439	Montenegro	10
+1	Tele	Ukraine	439	Netherlands	12
+1	Tele	Ukraine	439	North Macedonia	8
+1	Tele	Ukraine	439	Norway	12
+1	Tele	Ukraine	439	Poland	12
+1	Tele	Ukraine	439	Portugal	12
+1	Tele	Ukraine	439	Romania	10
+1	Tele	Ukraine	439	San Marino	12
+1	Tele	Ukraine	439	Serbia	7
+1	Tele	Ukraine	439	Slovenia	10
+1	Tele	Ukraine	439	Spain	12
+1	Tele	Ukraine	439	Sweden	12
+1	Tele	Ukraine	439	Switzerland	10
+1	Tele	Ukraine	439	United Kingdom	12
+2	Tele	Moldova	239	Albania	1
+2	Tele	Moldova	239	Armenia	5
+2	Tele	Moldova	239	Australia	4
+2	Tele	Moldova	239	Austria	7
+2	Tele	Moldova	239	Belgium	8
+2	Tele	Moldova	239	Bulgaria	7
+2	Tele	Moldova	239	Croatia	8
+2	Tele	Moldova	239	Czech Republic	8
+2	Tele	Moldova	239	denmark	5
+2	Tele	Moldova	239	Estonia	6
+2	Tele	Moldova	239	Finland	5
+2	Tele	Moldova	239	France	10
+2	Tele	Moldova	239	Georgia	8
+2	Tele	Moldova	239	Germany	10
+2	Tele	Moldova	239	Greece	3
+2	Tele	Moldova	239	Iceland	6
+2	Tele	Moldova	239	Ireland	7
+2	Tele	Moldova	239	Israel	6
+2	Tele	Moldova	239	Italy	10
+2	Tele	Moldova	239	Llatvia	7
+2	Tele	Moldova	239	Lithuania	5
+2	Tele	Moldova	239	Montenegro	7
+2	Tele	Moldova	239	Netherlands	10
+2	Tele	Moldova	239	North Macedonia	7
+2	Tele	Moldova	239	Norway	4
+2	Tele	Moldova	239	Poland	7
+2	Tele	Moldova	239	Portugal	8
+2	Tele	Moldova	239	Romania	12
+2	Tele	Moldova	239	San Marino	4
+2	Tele	Moldova	239	Serbia	12
+2	Tele	Moldova	239	Slovenia	7
+2	Tele	Moldova	239	Spain	7
+2	Tele	Moldova	239	Switzerland	4
+2	Tele	Moldova	239	Ukraine	6
+2	Tele	Moldova	239	United Kingdom	8
+3	Tele	Spain	228	Albania	7
+3	Tele	Spain	228	Armenia	8
+3	Tele	Spain	228	Australia	6
+3	Tele	Spain	228	Austria	1
+3	Tele	Spain	228	Azerbaijan	10
+3	Tele	Spain	228	Belgium	6
+3	Tele	Spain	228	Bulgaria	8
+3	Tele	Spain	228	Croatia	7
+3	Tele	Spain	228	Cyprus	8
+3	Tele	Spain	228	Czech Republic	6
+3	Tele	Spain	228	denmark	1
+3	Tele	Spain	228	Estonia	1
+3	Tele	Spain	228	Finland	3
+3	Tele	Spain	228	France	7
+3	Tele	Spain	228	Georgia	6
+3	Tele	Spain	228	Germany	2
+3	Tele	Spain	228	Greece	12
+3	Tele	Spain	228	Iceland	3
+3	Tele	Spain	228	Ireland	5
+3	Tele	Spain	228	Israel	8
+3	Tele	Spain	228	Llatvia	4
+3	Tele	Spain	228	Lithuania	6
+3	Tele	Spain	228	Malta	7
+3	Tele	Spain	228	Moldova	8
+3	Tele	Spain	228	Montenegro	8
+3	Tele	Spain	228	Netherlands	7
+3	Tele	Spain	228	North Macedonia	10
+3	Tele	Spain	228	Norway	1
+3	Tele	Spain	228	Poland	6
+3	Tele	Spain	228	Portugal	10
+3	Tele	Spain	228	Romania	8
+3	Tele	Spain	228	San Marino	10
+3	Tele	Spain	228	Serbia	10
+3	Tele	Spain	228	Slovenia	4
+3	Tele	Spain	228	Sweden	2
+3	Tele	Spain	228	Switzerland	6
+3	Tele	Spain	228	Ukraine	1
+3	Tele	Spain	228	United Kingdom	5
+4	Tele	Serbia	225	Albania	3
+4	Tele	Serbia	225	Armenia	6
+4	Tele	Serbia	225	Australia	8
+4	Tele	Serbia	225	Austria	10
+4	Tele	Serbia	225	Azerbaijan	6
+4	Tele	Serbia	225	Belgium	2
+4	Tele	Serbia	225	Bulgaria	10
+4	Tele	Serbia	225	Croatia	12
+4	Tele	Serbia	225	Cyprus	7
+4	Tele	Serbia	225	Czech Republic	10
+4	Tele	Serbia	225	Finland	7
+4	Tele	Serbia	225	France	8
+4	Tele	Serbia	225	Georgia	7
+4	Tele	Serbia	225	Germany	7
+4	Tele	Serbia	225	Greece	8
+4	Tele	Serbia	225	Iceland	1
+4	Tele	Serbia	225	Ireland	1
+4	Tele	Serbia	225	Israel	7
+4	Tele	Serbia	225	Italy	7
+4	Tele	Serbia	225	Llatvia	2
+4	Tele	Serbia	225	Malta	6
+4	Tele	Serbia	225	Montenegro	12
+4	Tele	Serbia	225	Netherlands	3
+4	Tele	Serbia	225	North Macedonia	12
+4	Tele	Serbia	225	Norway	3
+4	Tele	Serbia	225	Poland	5
+4	Tele	Serbia	225	Portugal	5
+4	Tele	Serbia	225	Romania	7
+4	Tele	Serbia	225	San Marino	8
+4	Tele	Serbia	225	Slovenia	12
+4	Tele	Serbia	225	Spain	2
+4	Tele	Serbia	225	Sweden	8
+4	Tele	Serbia	225	Switzerland	12
+4	Tele	Serbia	225	United Kingdom	1
+5	Tele	United Kingdom	183	Albania	4
+5	Tele	United Kingdom	183	Armenia	1
+5	Tele	United Kingdom	183	Australia	7
+5	Tele	United Kingdom	183	Austria	8
+5	Tele	United Kingdom	183	Azerbaijan	8
+5	Tele	United Kingdom	183	Belgium	3
+5	Tele	United Kingdom	183	Bulgaria	3
+5	Tele	United Kingdom	183	Cyprus	6
+5	Tele	United Kingdom	183	Czech Republic	2
+5	Tele	United Kingdom	183	denmark	6
+5	Tele	United Kingdom	183	Estonia	5
+5	Tele	United Kingdom	183	Finland	4
+5	Tele	United Kingdom	183	France	2
+5	Tele	United Kingdom	183	Georgia	4
+5	Tele	United Kingdom	183	Germany	6
+5	Tele	United Kingdom	183	Greece	5
+5	Tele	United Kingdom	183	Iceland	7
+5	Tele	United Kingdom	183	Ireland	6
+5	Tele	United Kingdom	183	Israel	10
+5	Tele	United Kingdom	183	Italy	6
+5	Tele	United Kingdom	183	Llatvia	3
+5	Tele	United Kingdom	183	Lithuania	4
+5	Tele	United Kingdom	183	Malta	12
+5	Tele	United Kingdom	183	Moldova	3
+5	Tele	United Kingdom	183	Netherlands	8
+5	Tele	United Kingdom	183	Norway	6
+5	Tele	United Kingdom	183	Poland	3
+5	Tele	United Kingdom	183	Portugal	6
+5	Tele	United Kingdom	183	Romania	3
+5	Tele	United Kingdom	183	San Marino	6
+5	Tele	United Kingdom	183	Spain	8
+5	Tele	United Kingdom	183	Sweden	6
+5	Tele	United Kingdom	183	Switzerland	5
+5	Tele	United Kingdom	183	Ukraine	7
+6	Tele	Sweden	180	Armenia	7
+6	Tele	Sweden	180	Australia	5
+6	Tele	Sweden	180	Austria	6
+6	Tele	Sweden	180	Azerbaijan	4
+6	Tele	Sweden	180	Belgium	5
+6	Tele	Sweden	180	Croatia	4
+6	Tele	Sweden	180	Czech Republic	5
+6	Tele	Sweden	180	denmark	10
+6	Tele	Sweden	180	Estonia	10
+6	Tele	Sweden	180	Finland	8
+6	Tele	Sweden	180	Germany	5
+6	Tele	Sweden	180	Greece	4
+6	Tele	Sweden	180	Iceland	8
+6	Tele	Sweden	180	Ireland	3
+6	Tele	Sweden	180	Israel	5
+6	Tele	Sweden	180	Italy	5
+6	Tele	Sweden	180	Llatvia	6
+6	Tele	Sweden	180	Lithuania	10
+6	Tele	Sweden	180	Malta	5
+6	Tele	Sweden	180	Moldova	5
+6	Tele	Sweden	180	Montenegro	1
+6	Tele	Sweden	180	Netherlands	2
+6	Tele	Sweden	180	North Macedonia	4
+6	Tele	Sweden	180	Norway	8
+6	Tele	Sweden	180	Poland	10
+6	Tele	Sweden	180	Portugal	7
+6	Tele	Sweden	180	Romania	6
+6	Tele	Sweden	180	San Marino	3
+6	Tele	Sweden	180	Serbia	1
+6	Tele	Sweden	180	Slovenia	5
+6	Tele	Sweden	180	Spain	6
+6	Tele	Sweden	180	Switzerland	3
+6	Tele	Sweden	180	United Kingdom	4
+7	Tele	Norway	146	Australia	10
+7	Tele	Norway	146	Austria	5
+7	Tele	Norway	146	Azerbaijan	7
+7	Tele	Norway	146	Bulgaria	1
+7	Tele	Norway	146	Croatia	5
+7	Tele	Norway	146	Czech Republic	3
+7	Tele	Norway	146	denmark	8
+7	Tele	Norway	146	Estonia	4
+7	Tele	Norway	146	Finland	6
+7	Tele	Norway	146	Germany	1
+7	Tele	Norway	146	Greece	6
+7	Tele	Norway	146	Iceland	10
+7	Tele	Norway	146	Ireland	4
+7	Tele	Norway	146	Israel	4
+7	Tele	Norway	146	Italy	4
+7	Tele	Norway	146	Llatvia	5
+7	Tele	Norway	146	Lithuania	2
+7	Tele	Norway	146	Malta	4
+7	Tele	Norway	146	Moldova	6
+7	Tele	Norway	146	Montenegro	2
+7	Tele	Norway	146	Netherlands	5
+7	Tele	Norway	146	North Macedonia	2
+7	Tele	Norway	146	Poland	4
+7	Tele	Norway	146	Portugal	2
+7	Tele	Norway	146	Romania	2
+7	Tele	Norway	146	San Marino	2
+7	Tele	Norway	146	Serbia	8
+7	Tele	Norway	146	Slovenia	3
+7	Tele	Norway	146	Spain	3
+7	Tele	Norway	146	Sweden	10
+7	Tele	Norway	146	Ukraine	2
+7	Tele	Norway	146	United Kingdom	6
+8	Tele	Italy	110	Albania	8
+8	Tele	Italy	110	Australia	1
+8	Tele	Italy	110	Austria	3
+8	Tele	Italy	110	Azerbaijan	5
+8	Tele	Italy	110	Belgium	4
+8	Tele	Italy	110	Bulgaria	2
+8	Tele	Italy	110	Croatia	6
+8	Tele	Italy	110	Cyprus	5
+8	Tele	Italy	110	France	3
+8	Tele	Italy	110	Germany	3
+8	Tele	Italy	110	Greece	7
+8	Tele	Italy	110	Israel	3
+8	Tele	Italy	110	Lithuania	3
+8	Tele	Italy	110	Malta	10
+8	Tele	Italy	110	Montenegro	6
+8	Tele	Italy	110	North Macedonia	6
+8	Tele	Italy	110	Portugal	3
+8	Tele	Italy	110	Romania	4
+8	Tele	Italy	110	San Marino	5
+8	Tele	Italy	110	Serbia	4
+8	Tele	Italy	110	Slovenia	6
+8	Tele	Italy	110	Spain	5
+8	Tele	Italy	110	Switzerland	8
+9	Tele	Poland	105	Australia	3
+9	Tele	Poland	105	Austria	4
+9	Tele	Poland	105	Azerbaijan	1
+9	Tele	Poland	105	Belgium	7
+9	Tele	Poland	105	Cyprus	3
+9	Tele	Poland	105	Czech Republic	7
+9	Tele	Poland	105	denmark	4
+9	Tele	Poland	105	France	4
+9	Tele	Poland	105	Germany	8
+9	Tele	Poland	105	Iceland	4
+9	Tele	Poland	105	Ireland	10
+9	Tele	Poland	105	Israel	1
+9	Tele	Poland	105	Italy	3
+9	Tele	Poland	105	Malta	2
+9	Tele	Poland	105	Montenegro	4
+9	Tele	Poland	105	Netherlands	6
+9	Tele	Poland	105	Norway	5
+9	Tele	Poland	105	Spain	1
+9	Tele	Poland	105	Sweden	5
+9	Tele	Poland	105	Switzerland	1
+9	Tele	Poland	105	Ukraine	12
+9	Tele	Poland	105	United Kingdom	10
+10	Tele	Estonia	98	Albania	5
+10	Tele	Estonia	98	Armenia	12
+10	Tele	Estonia	98	Croatia	2
+10	Tele	Estonia	98	Czech Republic	4
+10	Tele	Estonia	98	denmark	3
+10	Tele	Estonia	98	Finland	10
+10	Tele	Estonia	98	Llatvia	8
+10	Tele	Estonia	98	Lithuania	8
+10	Tele	Estonia	98	Moldova	7
+10	Tele	Estonia	98	Montenegro	3
+10	Tele	Estonia	98	Netherlands	1
+10	Tele	Estonia	98	North Macedonia	3
+10	Tele	Estonia	98	Norway	2
+10	Tele	Estonia	98	Poland	8
+10	Tele	Estonia	98	Romania	5
+10	Tele	Estonia	98	Serbia	6
+10	Tele	Estonia	98	Sweden	4
+10	Tele	Estonia	98	Ukraine	5
+10	Tele	Estonia	98	United Kingdom	2
+11	Tele	Lithuania	93	Armenia	2
+11	Tele	Lithuania	93	Australia	2
+11	Tele	Lithuania	93	Croatia	3
+11	Tele	Lithuania	93	Cyprus	2
+11	Tele	Lithuania	93	denmark	7
+11	Tele	Lithuania	93	Estonia	7
+11	Tele	Lithuania	93	Finland	2
+11	Tele	Lithuania	93	Georgia	5
+11	Tele	Lithuania	93	Iceland	2
+11	Tele	Lithuania	93	Ireland	8
+11	Tele	Lithuania	93	Llatvia	10
+11	Tele	Lithuania	93	Moldova	4
+11	Tele	Lithuania	93	North Macedonia	1
+11	Tele	Lithuania	93	Norway	10
+11	Tele	Lithuania	93	Poland	2
+11	Tele	Lithuania	93	Portugal	1
+11	Tele	Lithuania	93	Serbia	3
+11	Tele	Lithuania	93	Slovenia	2
+11	Tele	Lithuania	93	Sweden	3
+11	Tele	Lithuania	93	Ukraine	10
+11	Tele	Lithuania	93	United Kingdom	7
+12	Tele	Greece	57	Albania	12
+12	Tele	Greece	57	Armenia	3
+12	Tele	Greece	57	Azerbaijan	3
+12	Tele	Greece	57	Bulgaria	6
+12	Tele	Greece	57	Cyprus	10
+12	Tele	Greece	57	Georgia	1
+12	Tele	Greece	57	Norway	7
+12	Tele	Greece	57	San Marino	7
+12	Tele	Greece	57	Slovenia	8
+13	Tele	Romania	53	Bulgaria	4
+13	Tele	Romania	53	Cyprus	4
+13	Tele	Romania	53	France	1
+13	Tele	Romania	53	Greece	2
+13	Tele	Romania	53	Ireland	2
+13	Tele	Romania	53	Italy	8
+13	Tele	Romania	53	Malta	3
+13	Tele	Romania	53	Moldova	10
+13	Tele	Romania	53	San Marino	1
+13	Tele	Romania	53	Serbia	5
+13	Tele	Romania	53	Spain	10
+13	Tele	Romania	53	United Kingdom	3
+14	Tele	Netherlands	42	Albania	6
+14	Tele	Netherlands	42	Belgium	10
+14	Tele	Netherlands	42	Estonia	3
+14	Tele	Netherlands	42	Germany	4
+14	Tele	Netherlands	42	Iceland	5
+14	Tele	Netherlands	42	Israel	2
+14	Tele	Netherlands	42	Italy	2
+14	Tele	Netherlands	42	Lithuania	1
+14	Tele	Netherlands	42	Portugal	4
+14	Tele	Netherlands	42	Slovenia	1
+14	Tele	Netherlands	42	Sweden	1
+14	Tele	Netherlands	42	Ukraine	3
+15	Tele	Portugal	36	Armenia	4
+15	Tele	Portugal	36	Belgium	1
+15	Tele	Portugal	36	France	6
+15	Tele	Portugal	36	Italy	1
+15	Tele	Portugal	36	Lithuania	7
+15	Tele	Portugal	36	Montenegro	5
+15	Tele	Portugal	36	Poland	1
+15	Tele	Portugal	36	Spain	4
+15	Tele	Portugal	36	Switzerland	7
+16	Tele	Finland	26	Albania	2
+16	Tele	Finland	26	Czech Republic	1
+16	Tele	Finland	26	Estonia	8
+16	Tele	Finland	26	Georgia	2
+16	Tele	Finland	26	Llatvia	1
+16	Tele	Finland	26	Malta	1
+16	Tele	Finland	26	Sweden	7
+16	Tele	Finland	26	Ukraine	4
+17	Tele	Armenia	21	Bulgaria	5
+17	Tele	Armenia	21	Cyprus	1
+17	Tele	Armenia	21	France	5
+17	Tele	Armenia	21	Georgia	10
+18	Tele	Iceland	10	denmark	2
+18	Tele	Iceland	10	Ukraine	8
+19	Tele	France	8	Croatia	1
+19	Tele	France	8	Finland	1
+19	Tele	France	8	Greece	1
+19	Tele	France	8	Moldova	2
+19	Tele	France	8	Romania	1
+19	Tele	France	8	Serbia	2
+20	Tele	Germany	6	Austria	2
+20	Tele	Germany	6	Estonia	2
+20	Tele	Germany	6	Switzerland	2
+21	Tele	Belgium	5	Moldova	1
+21	Tele	Belgium	5	Netherlands	4
+21	Tele	Czech Republic	5	North Macedonia	5
+23	Tele	Azerbaijan	3	Georgia	3
+24	Tele	Australia	2	Azerbaijan	2
